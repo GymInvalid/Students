@@ -1,0 +1,13 @@
+D:\c#4\Байрамов Кянан\15_05_Quest\bin\Debug\netcoreapp3.1\15_05_Quest.exe
+D:\c#4\Байрамов Кянан\15_05_Quest\bin\Debug\netcoreapp3.1\15_05_Quest.deps.json
+D:\c#4\Байрамов Кянан\15_05_Quest\bin\Debug\netcoreapp3.1\15_05_Quest.runtimeconfig.json
+D:\c#4\Байрамов Кянан\15_05_Quest\bin\Debug\netcoreapp3.1\15_05_Quest.runtimeconfig.dev.json
+D:\c#4\Байрамов Кянан\15_05_Quest\bin\Debug\netcoreapp3.1\15_05_Quest.dll
+D:\c#4\Байрамов Кянан\15_05_Quest\bin\Debug\netcoreapp3.1\15_05_Quest.pdb
+D:\c#4\Байрамов Кянан\15_05_Quest\obj\Debug\netcoreapp3.1\15_05_Quest.csprojAssemblyReference.cache
+D:\c#4\Байрамов Кянан\15_05_Quest\obj\Debug\netcoreapp3.1\15_05_Quest.AssemblyInfoInputs.cache
+D:\c#4\Байрамов Кянан\15_05_Quest\obj\Debug\netcoreapp3.1\15_05_Quest.AssemblyInfo.cs
+D:\c#4\Байрамов Кянан\15_05_Quest\obj\Debug\netcoreapp3.1\15_05_Quest.csproj.CoreCompileInputs.cache
+D:\c#4\Байрамов Кянан\15_05_Quest\obj\Debug\netcoreapp3.1\15_05_Quest.dll
+D:\c#4\Байрамов Кянан\15_05_Quest\obj\Debug\netcoreapp3.1\15_05_Quest.pdb
+D:\c#4\Байрамов Кянан\15_05_Quest\obj\Debug\netcoreapp3.1\15_05_Quest.genruntimeconfig.cache
